@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Hello 🙋‍♂
 
-<p>My name is Anthony Solano López, i'm backend development, i'm currently learning javascript on backend and frontend, as well angular for frontend</p>
+<p>My name's Anthony Solano López, i'm backend development, i'm currently learning javascript on backend and frontend, as well angular for frontend</p>
 
 ## Skills lengajes 💻
 <ul>
