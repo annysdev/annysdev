@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Skills lengajes 💻
 <ul>
   <li>Javascript</li>
-  <li>CSS</li>
+  <li>PHP</li>
 </ul>
 
 ## Skills frameworks 
