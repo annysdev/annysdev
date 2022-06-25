@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Skills frameworks 
 <ul>
+  <li>Node Express</li>
   <li>Angular</li>
-  <li>Ionic</li>
   <li>Codeigniter</li>
 </ul>
