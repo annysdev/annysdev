@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 <p>My name's Anthony Solano López, i'm backend development, i'm currently learning javascript on backend and frontend, as well angular for frontend</p>
 
+## About me
+- 🔭 I’m currently working on my skills 
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about ...
+- 📫 How to reach me on twitter: @webfazt
+
 ## Skills lengajes 💻
 <ul>
   <li>Javascript</li>
@@ -27,8 +33,3 @@ Here are some ideas to get you started:
   <li>Ionic</li>
   <li>Codeigniter</li>
 </ul>
-
-- 🔭 I’m currently working on my skills 
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about ...
-- 📫 How to reach me on twitter: @webfazt
